@@ -7,7 +7,7 @@
 ## Who are we ?
 Autodrop aims to be a self-contained shipping solution for cooperations and individials alike.
 
-We provide full ecosystem for autonomous vehicles/drones which can deliver cargo from your warehouses (or doorsteps) to anywhere in the world ASAP
+We wish to provide full ecosystem for autonomous vehicles/drones which can deliver cargo from your warehouses (or doorsteps) to anywhere in the world ASAP
 
 ## How the magic happens :
 
@@ -15,3 +15,27 @@ Autodrop uses state of the art algorithims to find the shortest routes between a
 
 In addition, we also outfit our drones with our in-house self-driving technologies to detect obstacles and weather to deliver your package to you safely .
 
+__To find a shortest route in Google map I've implemented the following algorithms:__
+1. Breadth First Search
+1. Dijkstra Search
+1. A* Search
+
+ #### Work example:
+ 1. Loading local (Near Saint Petersruurg Polytechnical university) intersections in the map: ![](/img/Intersections.png)
+ 
+ 1. Route between two location: ![](/img/route.png)
+ 
+ 1. Breadth First Search (BFS) Result for the above mentioned route:
+    Total nodes visit to find the shortest rout: ![](/img/bfs_route_number.png)
+   
+    BFS search visiualization: ![](/img/bfs_visualization.png)
+   
+ 1. Dijkstra Result for the above mentioned route:
+   Total nodes visit to find the shortest rout: ![](/img/dijkstra _route_number.png)
+   
+   Dijkstra visiualization: ![](/img/dijkstra_visualization.png)
+   
+ 1. A* Search (BFS) Result for the above mentioned route:
+   Total nodes visit to find the shortest rout: ![](/img/astart_route_number.png)
+   
+   A* search visiualization: ![](/img/astarvisualization.png)
