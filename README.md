@@ -15,12 +15,15 @@ Autodrop uses state of the art algorithims to find the shortest routes between a
 
 In addition, we also outfit our drones with our in-house self-driving technologies to detect obstacles and weather to deliver your package to you safely .
 
-__To find a shortest route in Google map I've implemented the following algorithms:__
+__To find a shortest route , for now we have utilized the following algorithms:__
 1. Breadth First Search
 1. Dijkstra Search
 1. A* Search
 
- #### Work example:
+ ## Work example:
+ 
+ ### Path finding Algorithims :
+ 
  1. Loading local (Near Saint Petersruurg Polytechnical university) intersections in the map: ![](/img/Intersections.png)
  
  1. Route between two location: ![](/img/route.png)
