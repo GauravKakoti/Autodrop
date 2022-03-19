@@ -15,14 +15,20 @@ Autodrop uses state of the art algorithims to find the shortest routes between a
 
 In addition, we also outfit our drones with our in-house self-driving technologies to detect obstacles and weather to deliver your package to you safely .
 
-__To find a shortest route , for now we have utilized the following algorithms:__
-1. Breadth First Search
-1. Dijkstra Search
-1. A* Search
 
  ## Work example:
  
  ### Path finding Algorithims :
+ 
+ __To find a shortest route , for now we have utilized the following algorithms:__
+ 
+a. Breadth First Search
+
+b. Dijkstra Search
+
+c. A* Search
+
+
  
  1. Loading local (Near Saint Petersruurg Polytechnical university) intersections in the map: ![](/img/Intersections.png)
  
