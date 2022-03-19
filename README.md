@@ -6,3 +6,6 @@
 
 ## Who are we ?
 Autodrop aims to be a self-contained shipping solution for cooperations and individials alike.
+
+We provide full ecosystem for autonomous vehicles/drones which can deliver cargo from your warehouses (or doorsteps) to anywhere in the world ASAP
+
