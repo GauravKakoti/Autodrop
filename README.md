@@ -18,7 +18,7 @@ In addition, we also outfit our drones with our in-house self-driving technologi
 
  ## Work example:
  
- ### Path finding Algorithims :
+ ### 1) Path finding Algorithims :
  
  __To find a shortest route , for now we have utilized the following algorithms:__
  
@@ -48,3 +48,5 @@ c. A* Search
    Total nodes visit to find the shortest rout: ![](/img/astart_route_number.png)
    
    A* search visiualization: ![](/img/astarvisualization.png)
+   
+   ### 2) Self navigation technologies :
