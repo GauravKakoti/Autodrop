@@ -21,9 +21,7 @@ Autodrop uses state of the art algorithims to find the shortest routes from just
 
 In addition, we also outfit our drones with our in-house self-driving technologies to detect obstacles and weather to deliver your package to you safely .
  
- ## Work example:
- 
- ### 1) Path finding Algorithims :
+ ## 1) Path finding Algorithims :
  
  __To find a shortest route , we have utilized heuristic search algorithims. Namely :__
  
