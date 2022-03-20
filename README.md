@@ -3,6 +3,13 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54982599/159121289-e77ab694-41bb-4516-9603-417fd9280779.jpg" width="400">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/GauravKakoti/Autodrop?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/GauravKakoti/Autodrop?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/GauravKakoti/Autodrop?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/GauravKakoti/Autodrop?color=violet&style=for-the-badge">
+</p>
 
 ## Who are we ?
 Autodrop aims to be a self-contained shipping solution for cooperations and individials alike.
