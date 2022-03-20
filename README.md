@@ -32,6 +32,9 @@ a. Greedy Best First Search
 b. Beam search
 
 c. A* Search
+
+Our project takes bmp image files as input map data then applies the above algorithims 🤖
+It then outputs the route according to the selected algorithim in an image file, and also provides a 
 [Click Here !](https://docs.google.com/document/d/1bnRQalu7MTwxiidt4lvWSDYPQ23E8UGK/edit?usp=sharing&ouid=114516522567240662437&rtpof=true&sd=true)
 
    ### 2) Self navigation technologies :
