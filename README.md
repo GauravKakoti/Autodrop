@@ -37,6 +37,8 @@ To learn more about how it works and how we make it
 [Click Here !](https://docs.google.com/document/d/1bnRQalu7MTwxiidt4lvWSDYPQ23E8UGK/edit?usp=sharing&ouid=114516522567240662437&rtpof=true&sd=true)
 
 <img src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif" width="400">
-   ### 2) Self navigation technologies :
+
+## 2) Self navigation technologies :
+   
 Our project also uses realtime object detection using haar features to detect obstacles,lanes and the weather to reduce accidents due to human error
 and optimally follow the route determined by the pathfinding component
