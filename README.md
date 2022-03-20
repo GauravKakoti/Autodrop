@@ -48,4 +48,4 @@ To learn more about how it works and how we make it
 ## 2) Self navigation technologies :
    
 Our project also uses realtime object detection using haar features to detect obstacles,lanes and the weather to reduce accidents due to human error
-and optimally follow the route determined by the pathfinding component
+and optimally follow the route determined by the pathfinding component .
