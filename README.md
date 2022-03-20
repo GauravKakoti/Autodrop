@@ -50,9 +50,11 @@ To learn more about how it works and how we make it
 Our project also uses realtime object detection using haar features to detect obstacles,lanes and the weather to reduce accidents due to human error
 and optimally follow the route determined by the pathfinding component .
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/54982599/159154478-14fb8663-d6a6-4bf9-9b6d-51bd22455f0f.png" width="400">
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/54982599/159154478-14fb8663-d6a6-4bf9-9b6d-51bd22455f0f.png" width="400" />
   
-  <i>Realtime Lane Detection in action</i>
+  <i>Lane detection</i>
+  
+  <img src="https://user-images.githubusercontent.com/54982599/159163954-ff4c26ad-1604-4817-941b-156e771aaded.jpg" width="400" />
+  <i>Real-time Obstacle Detection</i>
 </p>
-
