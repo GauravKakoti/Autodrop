@@ -1,9 +1,6 @@
 # The GUI of the CP468 Project
 # Pathfinding
 #	Filename: main_gui.py
-#	Authors:
-#		Abdirahman Yassin 	- 154160030
-#		Gaymer Barrios 		- 171898540
 #	Description:
 #		Main GUI of pathfinding
 #	Reference:

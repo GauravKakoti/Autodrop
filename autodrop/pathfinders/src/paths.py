@@ -1,8 +1,5 @@
 # Pathfinding
 #	Filename: paths.py
-#	Authors:
-#		Abdirahman Yassin 	- 154160030
-#		Gaymer Barrios 		- 171898540
 #	Description:
 #		Implements heuristics to find paths
 #	Reference:
