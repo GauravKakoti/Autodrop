@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://user-images.githubusercontent.com/54982599/159150664-d22aae80-ddf9-402b-a5d3-b97da9fa8e4e.svg">
   <img src="https://img.shields.io/github/stars/GauravKakoti/Autodrop?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/GauravKakoti/Autodrop?color=teal&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/GauravKakoti/Autodrop?color=violet&style=for-the-badge">
