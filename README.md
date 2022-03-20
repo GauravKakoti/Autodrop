@@ -34,7 +34,7 @@ c. A* Search
 Our project takes bmp image files as input map data then applies the above algorithims 🤖
 It then outputs the route according to the selected algorithim in an image file, and also provides a .csv file comparing the various algorithims
 To learn more about how it works and how we make it 
-[Click Here !](https://docs.google.com/document/d/1bnRQalu7MTwxiidt4lvWSDYPQ23E8UGK/edit?usp=sharing&ouid=114516522567240662437&rtpof=true&sd=true)
+[Click Here !](https://drive.google.com/file/d/1KgdXWOM8oL3-y5NxNYvEBrM6x-kgsRth/view?usp=sharing)
 
 <img src="https://media.giphy.com/media/47EtjlHYFREM5Rznaf/giphy.gif" width="400">
 
